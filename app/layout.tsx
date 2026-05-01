@@ -3,7 +3,7 @@ import "./globals.css";
 import Navbar from "@/components/Navbar";
 
 export const metadata: Metadata = {
-  title: "Ma Xiao-yu Official Fanpage",
+  title: "MA XIAO YU_马小宇",
   description: "Dedicated to actor Ma Xiao-yu",
 };
 
